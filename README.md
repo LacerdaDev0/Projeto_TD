@@ -29,7 +29,7 @@ O dashboard permite uma análise granular por franquia/localização, revelando 
 
 ## VISÃO GERAL
 
-![Dashboard](caminho/para/sua/imagem.jpg)
+![Dashboard](Projeto_TD/imagens/image.png)
 
 ## 🚀 Como visualizar
 1. Faça o download do arquivo `.pbix`.
